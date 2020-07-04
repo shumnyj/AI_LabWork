@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\shumnyj\source\repos\ai_to_destroy_humans\ai_to_destroy_humans\main.cpp(73): warning C4101: ans: неиспользованная локальная переменная
+  AI_to_destroy_humans.vcxproj -> C:\Users\shumnyj\source\repos\AI_to_destroy_humans\Debug\AI_to_destroy_humans.exe
